@@ -1,0 +1,128 @@
+
+.firstbody{
+    position: absolute;
+    background-image: url("../assets/main-bg.jpg");
+    width: 1380px;
+    height: 100%;
+    font-family:'Gloria Hallelujah', cursive ;
+    font-weight: bold;
+}
+hr{
+    color: rgba(122, 118, 148, 0.622);
+    height: 5px;
+    width: 400px;
+    margin: auto;
+
+}
+.nav-spicial{
+    position:absolute;
+    margin: auto;
+}
+.center-logo{
+    position: absolute;
+    margin-left:650px ;
+    margin-top: 50;
+    text-align: center;
+    color: #35858B;
+    font-family:'Gloria Hallelujah', cursive ;
+    font-weight: bold;
+}
+.book{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 155px;
+}
+.main-dis{
+    width: 700px;
+    color:#F05454;
+    text-align: center;
+    position: absolute;
+    padding: 40px;
+    margin-left: 50px;
+    margin-top: 220px;
+    padding-bottom: 220px;
+    background-color: #33819400;
+    -webkit-transition: 1s all;   
+    -webkit-transition-delay: 0s; 
+    -moz-transition: 1s all;   
+    -moz-transition-delay: 0s; 
+    -ms-transition: 1s all;   
+    -ms-transition-delay: 0s; 
+    -o-transition: 1s all;   
+    -o-transition-delay: 0s; 
+    transition: 1s all;   
+    transition-delay: 0s; 
+    
+}
+.main-dis:hover{
+    background-color: #35313142;
+    -webkit-transition-delay: 0s;
+    -moz-transition-delay: 0s;
+    -ms-transition-delay: 0s;
+    -o-transition-delay: 0s;
+    transition-delay: 0s;
+}
+.main-dish{
+    margin-left: 50px;
+    margin-top: 360px;
+    text-align: center;
+
+}
+.dish:hover{
+    color: teal;
+}
+.shrimp{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.shrimp:hover{
+    box-shadow: #35858B;
+    text-shadow: #35858B;
+    color: teal;
+}
+.calimari{
+    position: absolute;
+    margin-top: 20px;
+    margin-left:190px;
+}
+.caviar{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 360px;
+}
+.salmon{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 530px;
+}
+.first-div{
+    margin-right: 200px;
+    margin-top: 350px;
+    position: absolute;
+    font-family: 'Gloria Hallelujah', cursive;
+
+
+}
+.location{
+    font-family:'Gloria Hallelujah', cursive ;
+    font-weight: bold;
+    position: absolute;
+    color: teal;
+    margin-top: 250px;
+    margin-left: 40px;
+    margin-right: 900px;
+    text-align: center;
+    background-color: #1212126c;
+}
+.time{
+        font-family:'Gloria Hallelujah', cursive ;
+        font-weight: bold;
+        position: absolute;
+        color: teal;
+        margin-top: 250px;
+        margin-left: 500px;
+        margin-right: 400px;
+        text-align: center;
+        background-color: #1212126c;
+}
